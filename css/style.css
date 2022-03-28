@@ -24,14 +24,6 @@ html {
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
-    scroll-snap-align: start;
-    scroll-snap-type: y mandatory;
-    scrollbar-width: none;
-    -webkit-scrollbar: none;
-}
-
 body,
 button,
 input,
